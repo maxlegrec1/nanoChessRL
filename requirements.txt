@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+numpy
+python-chess
+zstandard
+tqdm
